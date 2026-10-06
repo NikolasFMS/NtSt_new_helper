@@ -1,0 +1,84 @@
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.6 48.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #342f61;
+      }
+
+      .cls-3 {
+        fill: #86d1f5;
+      }
+
+      .cls-4 {
+        fill: #fe0;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <rect class="cls-3" y=".03" width="49.6" height="48.66" rx="2.62" ry="2.62"></rect>
+      <g>
+        <rect class="cls-2" x="17.94" y="17.76" width="13.35" height="13.1"></rect>
+        <polygon class="cls-4" points="20.09 22.03 20.09 20.85 22.63 20.85 22.63 26.75 23.87 26.75 23.87 27.91 19.94 27.91 19.94 26.75 21.16 26.75 21.16 22.03 20.09 22.03"></polygon>
+        <path class="cls-4" d="M25.64,25.85c.04.6.45.9,1.07.9.67,0,1.09-.45,1.1-1.1-.03-1.13-1.1-1.29-2.02-1.13v-.21l1.33-2.24h-2.54v-1.2h4.57v.21l-1.56,2.46c1.15.19,1.67,1.12,1.67,2.1,0,1.25-.9,2.41-2.53,2.41-1.35,0-2.38-.84-2.43-2.2h1.35Z"></path>
+        <g>
+          <path class="cls-1" d="M47.63,43.97v-1.43s1.97,0,1.97,0v-7.26h-1.17v-1.43h1.17V14.7h-1.17v-1.43h1.17v-6.9h-2.15v-1.43h2.15v-2.5c0-1.34-1.11-2.43-2.48-2.43h-2.42v1.93s-1.46,0-1.46,0V0s-7.6,0-7.6,0v.66h-1.46v-.66H14.98v.66h-1.46v-.66h-6.97v2.27s-1.45,0-1.45,0V0h-2.61C1.11,0,0,1.09,0,2.43v2.5h1.99v1.43H0v6.9h.72v1.43h-.72v19.16h.72v1.43h-.72v7.26h2.14s0,1.43,0,1.43H0v2.28c0,1.34,1.11,2.43,2.48,2.43h2.54v-1.81h1.46v1.81h7.04v-.79h1.46v.79h19.2v-.79h1.46v.79h7.67v-1.81h1.46v1.81h2.36c1.37,0,2.48-1.09,2.48-2.43v-2.27h-1.97ZM6.48,45.44h-1.46v-1.47h-1.41s0-1.43,0-1.43h2.87s0,2.9,0,2.9ZM6.55,35.29H2.18v-1.43h4.37v1.43ZM6.55,14.7H2.18v-1.43h4.37v1.43ZM3.44,6.37v-1.43h1.66v-1.23s1.46,0,1.46,0v2.67s-3.11,0-3.11,0ZM12.39,35.29h-4.37v-1.43h4.37v1.43ZM12.39,14.7h-4.37v-1.43h4.37v1.43ZM14.98,46.46h-1.46v-4.29h1.46v4.29ZM14.98,40.74h-1.46v-4.29h1.46v4.29ZM14.98,35.01h-1.46v-4.29h1.46v4.29ZM14.98,29.29h-1.46v-4.29h1.46v4.29ZM14.98,23.56h-1.46v-4.29h1.46v4.29ZM14.98,17.84h-1.46v-4.29h1.46v4.29ZM14.98,12.11h-1.46v-4.29h1.46v4.29ZM14.98,6.39h-1.46V2.09h1.46v4.29ZM21.01,35.29h-4.37v-1.43h4.37v1.43ZM21.01,14.7h-4.37v-1.43h4.37v1.43ZM26.84,35.29h-4.37v-1.43h4.37v1.43ZM26.84,14.7h-4.37v-1.43h4.37v1.43ZM32.68,35.29h-4.37v-1.43h4.37v1.43ZM32.68,14.7h-4.37v-1.43h4.37v1.43ZM35.63,46.46h-1.46v-4.29h1.46v4.29ZM35.63,40.74h-1.46v-4.29h1.46v4.29ZM35.63,35.01h-1.46v-4.29h1.46v4.29ZM35.63,29.29h-1.46v-4.29h1.46v4.29ZM35.63,23.56h-1.46v-4.29h1.46v4.29ZM35.63,17.84h-1.46v-4.29h1.46v4.29ZM35.63,12.11h-1.46v-4.29h1.46v4.29ZM35.63,6.39h-1.46V2.09h1.46v4.29ZM43.23,3.36h1.46s0,1.58,0,1.58h1.31v1.43h-2.77v-3.01ZM41.14,35.29h-4.37v-1.43h4.37v1.43ZM41.14,14.7h-4.37v-1.43h4.37v1.43ZM46.18,43.97h-1.41s0,1.47,0,1.47h-1.46v-2.91h2.87s0,1.44,0,1.44ZM46.97,35.29h-4.37v-1.43h4.37v1.43ZM46.97,14.7h-4.37v-1.43h4.37v1.43Z"></path>
+          <polygon class="cls-4" points="3.61 43.97 5.02 43.96 5.02 45.44 6.48 45.44 6.48 42.53 3.6 42.53 3.61 43.97"></polygon>
+          <rect class="cls-4" x="0" y="42.54" width="2.14" height="1.43" transform="translate(-.09 0)"></rect>
+          <rect class="cls-4" x="5.02" y="46.87" width="1.46" height="1.81"></rect>
+          <polygon class="cls-4" points="43.31 45.44 44.76 45.44 44.76 43.96 46.18 43.97 46.18 42.54 43.31 42.53 43.31 45.44"></polygon>
+          <rect class="cls-4" x="47.9" y="42.28" width="1.43" height="1.96" transform="translate(5.21 91.75) rotate(-89.83)"></rect>
+          <rect class="cls-4" x="43.31" y="46.87" width="1.46" height="1.81"></rect>
+          <rect class="cls-4" x="42.6" y="33.86" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="36.76" y="33.86" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="48.43" y="33.86" width="1.17" height="1.43"></rect>
+          <rect class="cls-4" x="13.52" y="47.9" width="1.46" height=".79"></rect>
+          <rect class="cls-4" x="13.52" y="19.27" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="13.52" width="1.46" height=".66"></rect>
+          <rect class="cls-4" x="13.52" y="13.54" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="13.52" y="7.82" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="13.52" y="36.45" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="13.52" y="42.17" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="13.52" y="30.72" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="13.52" y="2.09" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="13.52" y="24.99" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="28.3" y="33.86" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="22.47" y="33.86" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="16.63" y="33.86" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="2.18" y="33.86" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="8.01" y="33.86" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" y="33.86" width=".72" height="1.43"></rect>
+          <rect class="cls-4" x="34.17" y="13.54" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="34.17" y="19.27" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="34.17" y="42.17" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="34.17" y="30.72" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="34.17" y="2.09" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="34.17" y="36.45" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="34.17" y="7.82" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="34.17" width="1.46" height=".66"></rect>
+          <rect class="cls-4" x="34.17" y="47.9" width="1.46" height=".79"></rect>
+          <rect class="cls-4" x="34.17" y="24.99" width="1.46" height="4.29"></rect>
+          <rect class="cls-4" x="36.76" y="13.27" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="42.6" y="13.27" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="48.43" y="13.27" width="1.17" height="1.43"></rect>
+          <rect class="cls-4" x="28.3" y="13.27" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="16.63" y="13.27" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="22.47" y="13.27" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" y="13.27" width=".72" height="1.43"></rect>
+          <rect class="cls-4" x="2.18" y="13.27" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" x="8.01" y="13.27" width="4.37" height="1.43"></rect>
+          <rect class="cls-4" y="4.94" width="1.99" height="1.43"></rect>
+          <polygon class="cls-4" points="5.1 3.7 5.1 4.94 3.44 4.94 3.44 6.37 6.56 6.37 6.55 3.7 5.1 3.7"></polygon>
+          <rect class="cls-4" x="5.09" y="0" width="1.46" height="2.27" transform="translate(0 .02)"></rect>
+          <rect class="cls-4" x="43" y=".23" width="1.93" height="1.46" transform="translate(42.88 44.92) rotate(-89.84)"></rect>
+          <polygon class="cls-4" points="45.99 4.94 44.68 4.94 44.69 3.36 43.23 3.36 43.22 6.37 45.99 6.37 45.99 4.94"></polygon>
+          <rect class="cls-4" x="47.45" y="4.94" width="2.15" height="1.43"></rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
